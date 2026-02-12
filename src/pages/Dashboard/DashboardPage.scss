@@ -1,0 +1,26 @@
+.dashboard-page {
+  max-width: 560px;
+  color: #e5e7eb;
+  min-height: 120px;
+
+  .card-title {
+    color: #f1f5f9;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .card-subtitle {
+    color: #94a3b8;
+    font-size: 1rem;
+  }
+
+  .error-text {
+    color: #f87171;
+  }
+
+  &__email {
+    color: #e5e7eb;
+    margin: 0;
+    font-size: 1rem;
+  }
+}
